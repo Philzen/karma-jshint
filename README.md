@@ -1,4 +1,5 @@
-# karma-jshint
+# karma-jshint 
+[![Dependency Status](https://david-dm.org/philzen/karma-jshint.png)](https://david-dm.org/philzen/karma-jshint)
 
 > Preprocessor to check JavaScript syntax on the fly.
 
