@@ -7,7 +7,7 @@
 ## Installation
 
 ```bash
-npm install karma-jshint-preprocessor --save-dev
+npm install karma-jshint --save-dev
 ```
 
 ## Usage
