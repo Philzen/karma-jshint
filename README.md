@@ -25,10 +25,10 @@ specify the files you want jslint'ed in the preprocessor section like this:
     ...
 ```
 
-### Set [JSHint config options]
+### Configuration
 
 You may set your own options by adding a `jshint` section
-to your Karma config file :
+to your Karma config file, for example :
 
 ``` javascript
     ...
@@ -50,10 +50,19 @@ to your Karma config file :
                 cordova: true,
                 jQuery: true
             }
-        }
+        },
+        summary: true
     },
     ...
 ```
+
+#### `jshint.options`
+
+An object with [JSHint config options].
+
+#### `summary`
+
+Show a summary of all jshint'ed files, aggregated across error types.
 
 ----
 
