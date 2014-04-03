@@ -61,7 +61,7 @@ to your Karma config file, for example :
 
 An object with [JSHint config options].
 
-#### `summary`
+#### `jshint.summary`
 
 Show a summary of all jshint'ed files, aggregated across error types.
 
