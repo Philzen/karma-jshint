@@ -1,10 +1,10 @@
 {
   "name": "karma-jshint",
-  "version": "0.0.3",
-  "description": "A Karma plugin.  Check Syntax of JavaScript using JSHint.",
+  "version": "0.1.0",
+  "description": "Kind of a Karma plugin. Let JSHint _do_ your code and enjoy the ride...",
   "main": "./index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0;"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   ],
   "licenses": ["MIT"],
   "dependencies": {
-    "jshint": "^2.4.2"
+    "jshint": ">=2.5"
   },
   "peerDependencies": {
     "karma": ">=0.9"
