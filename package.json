@@ -13,10 +13,7 @@
   "keywords": ["jshint", "karma", "karma-plugin", "karma-preprocessor"],
   "author": "Kyle Welsby <kyle@mekyle.com>",
   "contributors": [
-    {
-      "name": "Phil. Austermann",
-      "author": "Philzen <phil AT patient-radio.de>"
-    }
+    "Philzen <phil AT patient-radio.de>"
   ],
   "licenses": ["MIT"],
   "dependencies": {
