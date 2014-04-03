@@ -1,14 +1,11 @@
 # karma-jshint 
-[![Dependency Status](https://david-dm.org/philzen/karma-jshint.png)](https://david-dm.org/philzen/karma-jshint)
 [![Code Climate](https://codeclimate.com/github/Philzen/karma-jshint.png)](https://codeclimate.com/github/Philzen/karma-jshint)
+[![Build Status](https://travis-ci.org/Philzen/karma-jshint.svg?branch=0-1-stable)](https://travis-ci.org/Philzen/karma-jshint)
+[![Dependency Status](https://david-dm.org/philzen/karma-jshint.png)](https://david-dm.org/philzen/karma-jshint)
 
 > Preprocessor / Plugin for Karma to check JavaScript syntax on the fly.
 
-## Installation
-
-```bash
-npm install karma-jshint --save-dev
-```
+ [![NPM Package Stats](https://nodei.co/npm/karma-jshint.png)](https://www.npmjs.org/package/karma-jshint)
 
 ## Usage
 
